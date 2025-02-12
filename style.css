@@ -9,7 +9,7 @@
     font-style: normal;
 }
 #first{
-    background-image: url("/assets/Rectangle.png");
+    background-image: url("Rectangle.png");
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
@@ -41,7 +41,7 @@
     margin-top: 10px;
 }
 #secondd{
-    background-image: url("/Alabay_Assets/Section2.png");
+    background-image: url("Section2.png");
     background-size: contain;
     background-repeat: no-repeat;    
     display: flex;
@@ -82,7 +82,7 @@
     margin-left: 120px;
 }
 #toke{
-    background-image: url("/Alabay_Assets/Section2.png");
+    background-image: url("Section2.png");
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
@@ -111,7 +111,7 @@
     flex-direction: column;
 }
 #pink{
-    background-image: url(/pinkbg.png);
+    background-image: url(pinkbg.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -139,7 +139,7 @@
     margin-top: 50px;
 }
 #tweetbox{
-    background-image: url(/Alabay_Assets/Union.png);
+    background-image: url(Union.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
